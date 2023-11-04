@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q4ixh6fpb4j3rhov?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-containers-set)
+
 # Домашнее задание к лекции «Контейнеры»
 
 
